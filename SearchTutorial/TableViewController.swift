@@ -11,7 +11,7 @@ import UIKit
 class TableViewController: UITableViewController, UISearchResultsUpdating {
 
     
-    var array = ["Apple","Samsung","Google","LifeGood","Microsoft","Amazon","Flipkart"]
+    var array = ["Apple","Samsung","Google","LifeGood","Microsoft","Amazon","Flipkart","Panasonic"]
     
     var filteredArray = [String]()
     
